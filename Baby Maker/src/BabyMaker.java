@@ -11,8 +11,9 @@ public class BabyMaker {
 			System.out.println("pretty");
 		}
 		
-		System.out.println("cool");
-		System.out.println("Committing changes");
+		
+		
+		System.out.println("More changes");
 myB1.barf();
 myB1.laugh();
 myB1.cry();
