@@ -11,6 +11,7 @@ public class BabyMaker {
 			System.out.println("pretty");
 		}
 myB1.barf();
+myB1.laugh();
 	}
 
 }

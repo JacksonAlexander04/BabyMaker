@@ -12,5 +12,9 @@ public Baby(String n, double w, boolean g) {
 public static void barf() {
 	System.out.println("Yuck");
 }
+
+public static void laugh() {
+	System.out.println("Awesome");
+}
 }
 
