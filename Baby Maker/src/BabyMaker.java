@@ -14,6 +14,7 @@ public class BabyMaker {
 		
 		
 		System.out.println("More changes");
+		System.out.println("coding is cool");
 myB1.barf();
 myB1.laugh();
 myB1.cry();
