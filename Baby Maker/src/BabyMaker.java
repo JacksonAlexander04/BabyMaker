@@ -10,8 +10,10 @@ public class BabyMaker {
 		if(myB2.isGirl) {
 			System.out.println("pretty");
 		}
+		System.out.println("Cool baby");
 myB1.barf();
 myB1.laugh();
+myB1.cry();
 	}
 
 }
